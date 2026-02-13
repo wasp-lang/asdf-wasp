@@ -1,3 +1,9 @@
+# Deprecated
+
+> [!IMPORTANT]
+> This plugin is no longer useful as Wasp is now published through npm. Please migrate off it. Read more at https://wasp.sh/docs/guides/legacy/installer.
+
+
 <div align="center">
 
 # asdf-wasp [![Build](https://github.com/cprecioso/asdf-wasp/actions/workflows/build.yml/badge.svg)](https://github.com/cprecioso/asdf-wasp/actions/workflows/build.yml) [![Lint](https://github.com/cprecioso/asdf-wasp/actions/workflows/lint.yml/badge.svg)](https://github.com/cprecioso/asdf-wasp/actions/workflows/lint.yml)
