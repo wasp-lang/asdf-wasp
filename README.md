@@ -3,6 +3,7 @@
 > [!IMPORTANT]
 > This plugin is no longer useful as Wasp is now published through npm. Please migrate off it. Read more at https://wasp.sh/docs/guides/legacy/installer.
 
+---
 
 <div align="center">
 
